@@ -1,6 +1,6 @@
 # coffee_shop
 
-"A new Flutter project."
+"Coffee app"
 
 ## Getting Started
 
